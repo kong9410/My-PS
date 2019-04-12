@@ -114,8 +114,8 @@ int main(){
         g[select].setStatus(direction*-1);
         left_dfs(select-1, select);
         right_dfs(select+1, select);
-		    for (int i = 0; i < 4; i++) {
-			      g[i].rotate();
+	for (int i = 0; i < 4; i++) {
+	    g[i].rotate();
             g[i].initSetup();
             g[i].setLeft();
             g[i].setRight();
