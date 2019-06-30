@@ -19,7 +19,7 @@ int main(){
             cin >> arr[i];
         }
         if(p == 1){
-            cout << "#" << j++ << " " << arr[0] << endl;
+            cout << "#" << j++ << " " << arr[0] * arr[0] << endl;
         }
         else{
             sort(arr, arr+p);
