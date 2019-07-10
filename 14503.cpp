@@ -8,7 +8,7 @@ int room[55][55];
 bool clean[55][55];
 int res = 0;
 //0 북, 1 동, 2 남, 3 서
-int dirR[] = {1, 0, -1, 0};
+int dirR[] = {-1, 0, 1, 0};
 int dirC[] = {0, 1, 0, -1};
 void dfs(int r, int c, int d, bool used)
 {
