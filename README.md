@@ -1,2 +1,7 @@
-This git is collections which is source code what was solved the Baekjoon Problem by me. It''s been a month since i started PS study. And I created Git-hub to collect my solutions. This is why i use git hub.
+백준, 삼성, 프로그래머스 등 알고리즘을 푼 코드들입니다.
 
+## 풀이를 적어놓은 블로그
+https://camelsource.tistory.com/
+
+해결되거나 미해결된 코드들을 기록해놨습니다. 
+해결이 된 코드들은 차차 수정될 수 있습니다.
